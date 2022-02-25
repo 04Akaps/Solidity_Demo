@@ -5,4 +5,4 @@ NFT거래가 발생할때마다 컨트랙트를 배포하는 형식으로 구성
 
 그러기 때문에 일정 부분 오프체인을 통해서 컨트랙트 배포값을 계정과 동일하게 관리해야 할 필요가 있습니다.
 
-Youtube  : 
+Youtube  : https://www.youtube.com/watch?v=Hm8T_zEvmy4
